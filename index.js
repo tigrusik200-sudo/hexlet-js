@@ -1,4 +1,4 @@
-const _ = require('lodash');
+const _ = require("lodash");
 
-console.log('Hello, Hexlet');
-console.log(_.lodash([2, 3, 4, 5]))
+console.log("Hello, Hexlet");
+console.log(_.last([2, 3, 4, 5]));
