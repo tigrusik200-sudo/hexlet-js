@@ -1,4 +1,3 @@
-const _ = require("lodash");
+import run from './src/index.js';
 
-console.log("Hello, Hexlet");
-console.log(_.last([2, 3, 4, 5]));
+run();
